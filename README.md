@@ -4,7 +4,7 @@ This repository contains the description on how to compute the size of the so-ca
 This computation is described in  detail in the follwoing document:
 [![there](https://github.com/JMMC-OpenDev/oibeam/blob/gh-pages/beam.svg)](https://github.com/JMMC-OpenDev/oibeam/blob/gh-pages/beam.pdf)
 ### Notebook
-Example of this comptation are shown in the following Julia [notebooks](https://github.com/JMMC-OpenDev/oibeam/tree/notebooks).
+Example of this comptation are shown in the following Julia [notebooks](https://github.com/JMMC-OpenDev/oibeam/blob/notebooks/BeamExample.ipynb).
 As Nbviewer cannot show plotly plots properly, it can be directly seen [here](https://jovian.com/ferreols/beamexample). There you can zoom in to compare the image of the beam and the estimated ellipse.
  
 ### BeamEstimation package:
