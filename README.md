@@ -1,7 +1,7 @@
 # oibeam
-This repository contains the description on how to compute the size of the so-called "beam" in Optical Long Baseline Interferometry. It is the size of the central lobe of the impulse response (aka  the dirty beam or the point spread function) and sets the size of a resolution element of the system.
+This repository contains the description on how to compute the size of the so-called "beam" in Optical Long Baseline Interferometry. It is the size of the central lobe of the impulse response (aka  the dirty beam or the point spread function) and it sets the size of a resolution element of the system.
 
-This computation is described in  detail in the follwoing document:
+This computation is described in  details in the following document:
 [![there](https://github.com/JMMC-OpenDev/oibeam/blob/gh-pages/beam.svg)](https://github.com/JMMC-OpenDev/oibeam/blob/gh-pages/beam.pdf)
 ### Notebook
 Example of this comptation are shown in the following Julia [notebooks](https://github.com/JMMC-OpenDev/oibeam/blob/notebooks/BeamExample.ipynb).
